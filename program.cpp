@@ -1,7 +1,7 @@
-#include <example2.h>
+#include <example1.h>
 
 int main()
 {
-    example2 simulation;
+    example1 simulation;
     return simulation.runSimulation();
 }
